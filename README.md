@@ -1,5 +1,3 @@
 # IssuesTest
 
-##
-
-Issuesの練習用ダミーテキスト
+## Issuesの練習用ダミーテキスト
